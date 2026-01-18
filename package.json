@@ -36,7 +36,9 @@
       "default": "./tailwind/index.js"
     },
     "./vite": {
-      "import": "./vite/index.js"
+      "import": "./vite/index.js",
+      "require": "./vite/index.js",
+      "default": "./vite/index.js"
     },
     "./style.css": {
       "import": "./src/style.css"
