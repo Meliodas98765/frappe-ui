@@ -3,7 +3,10 @@
   "version": "0.1.257",
   "description": "Dood UI - A set of components and utilities for rapid UI development",
   "type": "module",
-  "sideEffects": false,
+  "sideEffects": [
+    "*.css",
+    "*.scss"
+  ],
   "scripts": {
     "test": "vitest --run",
     "type-check": "tsc --noEmit",
@@ -56,7 +59,8 @@
     "vite",
     "icons",
     "tailwind",
-    "tsconfig.base.json"
+    "tsconfig.base.json",
+    "package.json"
   ],
   "repository": {
     "type": "git",
