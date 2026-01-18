@@ -51,8 +51,8 @@
     },
     "./src/utils/tailwind.config": {
       "import": "./src/utils/tailwind.config.js",
-      "require": "./tailwind/preset.js",
-      "default": "./tailwind/preset.js"
+      "require": "./tailwind/preset.cjs",
+      "default": "./tailwind/preset.cjs"
     },
     "./src/tailwind/preset": {
       "import": "./tailwind/preset.js",
