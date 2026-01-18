@@ -47,6 +47,10 @@
     "./src/*": {
       "import": "./src/*"
     },
+    "./src/tailwind/preset": {
+      "import": "./tailwind/preset.js",
+      "default": "./tailwind/preset.js"
+    },
     "./tsconfig.base.json": {
       "default": "./tsconfig.base.json",
       "types": "./tsconfig.base.json"
