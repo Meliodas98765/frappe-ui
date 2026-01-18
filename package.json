@@ -47,7 +47,8 @@
       "import": "./src/style.css"
     },
     "./src/*": {
-      "import": "./src/*"
+      "import": "./src/*",
+      "default": "./src/*"
     },
     "./src/utils/tailwind.config": {
       "import": "./src/utils/tailwind.config.js",
