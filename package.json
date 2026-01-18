@@ -1,7 +1,7 @@
 {
   "name": "frappe-ui",
   "version": "0.1.257",
-  "description": "A set of components and utilities for rapid UI development",
+  "description": "Dood UI - A set of components and utilities for rapid UI development",
   "type": "module",
   "sideEffects": false,
   "scripts": {
@@ -54,9 +54,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frappe/frappe-ui.git"
+    "url": "git+https://github.com/Meliodas98765/frappe-ui.git"
   },
-  "author": "Frappe Technologies Pvt. Ltd.",
+  "author": "Dood Apps",
   "license": "MIT",
   "dependencies": {
     "@floating-ui/vue": "^1.1.6",

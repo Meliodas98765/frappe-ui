@@ -1,6 +1,6 @@
-# What is Frappe UI?
+# What is Dood UI?
 
-Frappe UI is a set of components and utilities to build frontend apps based on
+Dood UI is a set of components and utilities to build frontend apps based on
 the [Frappe Framework](https://frappeframework.com).
 
 Along with generic components which are required to build a frontend like
@@ -35,7 +35,7 @@ let todos = createResource({
 
 ## Dependencies
 
-Frappe UI is built on top of the following amazing projects &ndash;
+Dood UI is built on top of the following amazing projects &ndash;
 
 - [Vue 3](https://vuejs.org)
 - [TailwindCSS](https://tailwindcss.com)
@@ -69,7 +69,7 @@ utilities useful for frontend development.
 
 ## Products
 
-Frappe UI is now being used in a lot of products by Frappe.
+Dood UI is now being used in a lot of products by Dood Apps.
 
 - [Frappe Cloud](https://frappecloud.com)
 - [Gameplan](https://github.com/frappe/gameplan)
@@ -79,4 +79,4 @@ Frappe UI is now being used in a lot of products by Frappe.
 
 ## License
 
-Frappe UI is MIT licensed
+Dood UI is MIT licensed

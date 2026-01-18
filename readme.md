@@ -2,8 +2,8 @@
 
 <img src="https://github.com/user-attachments/assets/0a81cdc1-d957-47a9-b151-f5571be0d038" width="80" />
 
-# Frappe UI
-**Rapidly build modern frontends for Frappe apps**
+# Dood UI
+**Rapidly build modern frontends for Dood apps**
 
 <img alt="NPM Downloads" src="https://img.shields.io/npm/dm/frappe-ui.svg?style=flat"/>
 
@@ -12,9 +12,9 @@
 </a>
 </div>
 
-## Frappe UI
+## Dood UI
 
-Frappe UI provides a set of components and utilities for rapid UI development. Components are built using Vue 3 and Tailwind.
+Dood UI provides a set of components and utilities for rapid UI development. Components are built using Vue 3 and Tailwind.
 Along with generic components like Button, Link, Dialog, etc., it also contains utilities for handling server-side data fetching, directives and utilities.
 
 
@@ -84,8 +84,7 @@ Now, you can import needed components and start using it:
 
 ## Used By
 
-Frappe UI is being used in a lot of products by
-[Frappe](https://github.com/frappe).
+Dood UI is being used in a lot of products by Dood Apps.
 
 - [Frappe Cloud](https://frappecloud.com)
 - [Gameplan](https://github.com/frappe/gameplan)

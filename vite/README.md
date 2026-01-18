@@ -1,7 +1,7 @@
-# Frappe UI Vite Plugins
+# Dood UI Vite Plugins
 
 A collection of Vite plugins for Frappe applications that handle common
-development tasks when building modern frontends for Frappe.
+development tasks when building modern frontends for Dood.
 
 ## Installation
 
