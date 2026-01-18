@@ -50,6 +50,18 @@
       "import": "./src/*",
       "default": "./src/*"
     },
+    "./src/components/TextEditor": {
+      "import": "./src/components/TextEditor.js",
+      "default": "./src/components/TextEditor.js"
+    },
+    "./src/components/Popover.vue": {
+      "import": "./src/components/Popover.js",
+      "default": "./src/components/Popover.js"
+    },
+    "./src/components/TextEditor/TextEditorFixedMenu.vue": {
+      "import": "./src/components/TextEditor/TextEditorFixedMenu.vue",
+      "default": "./src/components/TextEditor/TextEditorFixedMenu.vue"
+    },
     "./src/utils/tailwind.config": {
       "import": "./src/utils/tailwind.config.js",
       "require": "./tailwind/preset.cjs",
