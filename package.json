@@ -37,7 +37,7 @@
     },
     "./vite": {
       "import": "./vite/index.js",
-      "require": "./vite/index.js",
+      "require": "./vite/index.cjs",
       "default": "./vite/index.js"
     },
     "./style.css": {
