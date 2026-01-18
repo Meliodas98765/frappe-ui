@@ -49,6 +49,11 @@
     "./src/*": {
       "import": "./src/*"
     },
+    "./src/utils/tailwind.config": {
+      "import": "./src/utils/tailwind.config.js",
+      "require": "./tailwind/preset.js",
+      "default": "./tailwind/preset.js"
+    },
     "./src/tailwind/preset": {
       "import": "./tailwind/preset.js",
       "default": "./tailwind/preset.js"
